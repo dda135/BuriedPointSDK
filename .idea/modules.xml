@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuriedPointSDK.iml" filepath="$PROJECT_DIR$/BuriedPointSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buriedpoint/buriedpoint.iml" filepath="$PROJECT_DIR$/buriedpoint/buriedpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buriedpointannotation/buriedpointannotation.iml" filepath="$PROJECT_DIR$/buriedpointannotation/buriedpointannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buriedpointapt/buriedpointapt.iml" filepath="$PROJECT_DIR$/buriedpointapt/buriedpointapt.iml" />
+    </modules>
+  </component>
+</project>

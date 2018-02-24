@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package fanjh.mine.buriedpoint.pb;
+
+
+option java_package = "fanjh.mine.buriedpoint.pb";
+option java_outer_classname = "ReportEntry";
+
+message Report {
+    repeated Entry arrays = 1;
+    message Entry{
+        string lib = 1;
+        string user = 2;
+        string common = 3;
+        string eventname = 4;
+        sint64 time = 5;
+    }
+}
